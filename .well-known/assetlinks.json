@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["57:C1:15:1A:0F:B5:33:14:75:FC:37:2B:55:EE:57:CC:4B:D9:3D:12:CC:4D:78:C2:81:76:D9:D5:5C:CD:B5:50"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.fujitsu.com.applinkstest",
+    "sha256_cert_fingerprints":
+    ["D6:07:05:37:2F:1E:27:7F:E1:29:FD:E0:CB:20:ED:54:C7:A6:ED:4E:1A:7A:3D:27:B8:2D:36:FC:BD:E5:25:31"]
+  }
 }]
